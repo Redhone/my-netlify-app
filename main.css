@@ -1,9 +1,10 @@
 body{
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    color: white;
-   background-color: brown;
+   background-color: black;
    align-content: center;
    text-align: center;
+   padding: 3em auto;
 }
 h1{
    font-size: 3em;
